@@ -15,7 +15,7 @@ This is a sample Next.js project demonstrating the capabilities of the Next.js f
 
 ## Demo
 
-Check out the live demo: [Live Demo]([https://your-demo-link.com](https://meeting-calender.vercel.app/))
+Check out the live demo: [Live Demo](https://meeting-calender.vercel.app/)
 
 ## Features
 
